@@ -43,7 +43,7 @@ You have the right to:
 ## Contact Us
 
 Questions about this privacy policy? Contact us at:
-- Email: privacy@edubox.global
+- Email: info@edubox.global
 - Address: [Address pending incorporation]
 
 ---
@@ -89,6 +89,6 @@ We may update these terms at any time. Continued use constitutes acceptance.
 
 ## Contact
 
-Questions? Email legal@edubox.global
+Questions? Email info@edubox.global
 
 *EduBox Global Initiative is a 501(c)(3) nonprofit organization. EIN: [Pending]*
